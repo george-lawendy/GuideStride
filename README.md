@@ -13,7 +13,6 @@ The system combines computer vision and IMU sensing to classify runner movement 
 A Raspberry Pi processes camera and motion-sensor data and triggers directional vibration feedback to help guide the runner.
 
 ## Tech Stack
-
 - Python
 - OpenCV
 - scikit-learn
